@@ -13,7 +13,7 @@ This Django-based web application is designed to perform automatic text summariz
 # Getting Started
 
 ## Clone the repository:
-git clone https://github.com/nassrkhan/Automatic-Text-Summarization-Web-Application.git
+git clone https://github.com/sajal9685/automated-text-summarizer.git
 
 
 ## Navigate to the project directory:
